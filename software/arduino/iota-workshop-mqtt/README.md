@@ -1,3 +1,3 @@
 ## Workshop Internet of Things
 
-Zie http://iota.topicusonderwijs.nl voor meer informatie!
+Zie https://topicusonderwijs.github.io/iota/ voor meer informatie!
