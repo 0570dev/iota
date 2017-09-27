@@ -8,6 +8,7 @@
 #define WIFI_SSID           "My Wifi"
 #define WIFI_PASSWORD       "My Password"
 
+// Only update IFTTT_KEY and IFTTT_EVENT using your own Key and Event-name. URL is generated in singleClick() using these parameters.
 #define IFTTT_URL           "http://maker.ifttt.com"
 #define IFTTT_KEY           "IFTTT KEY";
 #define IFTTT_EVENT         "IFTTT EVENT NAME";
